@@ -38,7 +38,7 @@ import { getGasPriceFromRpc } from '@/services/gasOracle'
 const relayers: RelayerInfo[] = [
   {
     name: 'test relay',
-    api: 'http://server:8000/',
+    api: 'http://server:8000',
   },
 ]
 
